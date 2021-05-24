@@ -1,6 +1,6 @@
 {
   "name": "@shr-cli/core",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "shr-cli core",
   "author": "Akashi2019 <657318304@qq.com>",
   "homepage": "https://github.com/Akashi2019/shr-cli/tree/main/packages/core#readme",
@@ -31,7 +31,7 @@
     "url": "https://github.com/Akashi2019/shr-cli/issues"
   },
   "devDependencies": {
-    "@shr-cli/utils": "^0.0.1"
+    "@shr-cli/utils": "^0.0.2"
   },
   "gitHead": "fa29a78e6780583022477cd1e8989789b565b20a"
 }
