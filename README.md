@@ -108,4 +108,4 @@ lerna publish
 
 ### core模块技术方案
 
-![](.\assets\core.png)
+![](assets\core.png)
