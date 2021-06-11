@@ -111,7 +111,6 @@ lerna publish
 ![](.\assets\jiagou.png)
 
 ### core模块技术方案
-
 ![](.\assets\core.png)
 
 #### npm包
@@ -133,4 +132,4 @@ minimist：参数解析
 ```bash
 lerna add import-local semver colors root-check user-home path-exists minimist core/cli/
 ```
-
+![](assets\core.png)
