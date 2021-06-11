@@ -2,7 +2,11 @@
 .idea
 node_modules
 
-packages/**/node_modules
-packages/**/package-lock.json
-
+commands/**/node_modules
+core/**/node_modules
+models/**/node_modules
+utils/**/node_modules
 lerna-debug.log
+
+.DS_Store
+**/.DS_Store

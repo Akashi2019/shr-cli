@@ -106,6 +106,31 @@ lerna publish
   - API 请求
   - Git API
 
+### 脚手架架构技术
+
+![](.\assets\jiagou.png)
+
 ### core模块技术方案
 
 ![](.\assets\core.png)
+
+#### npm包
+
+import-local： 优先从本地加载安装包
+
+semver：版本比对
+
+colors：改变字体颜色
+
+root-check:  降级权限
+
+user-home: 检查用户主目录
+
+path-exists: 判断文件目录是否存在
+
+minimist：参数解析
+
+```bash
+lerna add import-local semver colors root-check user-home path-exists minimist core/cli/
+```
+
