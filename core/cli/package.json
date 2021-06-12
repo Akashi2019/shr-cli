@@ -30,7 +30,9 @@
   "dependencies": {
     "@shr-cli/log": "file:../../utils/log",
     "@shr-cli/utils": "file:../../utils/utils",
+    "@shr-cli/get-npm-info": "file:../../utils/get-npm-info",
     "colors": "^1.4.0",
+    "dotenv": "^10.0.0",
     "import-local": "^3.0.2",
     "minimist": "^1.2.5",
     "path-exists": "^4.0.0",

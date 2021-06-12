@@ -129,7 +129,11 @@ path-exists: 判断文件目录是否存在
 
 minimist：参数解析
 
+dotenv: 检查环境变量
+
 ```bash
-lerna add import-local semver colors root-check user-home path-exists minimist core/cli/
+lerna add import-local semver colors root-check user-home path-exists minimist dotenv core/cli/
 ```
-![](assets\core.png)
+axios： 异步请求
+
+url-join：拼接url
